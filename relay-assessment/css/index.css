@@ -1,0 +1,215 @@
+
+
+
+.bg-container {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.container-head {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: rgba(217, 205, 194, 0.74);
+}
+
+.container-one {
+    position: absolute;
+    width: 400px;
+    height: 1024px;
+    left: -1px;
+    top: 4px;
+    background: rgba(255, 255, 255, 0.39);
+    border-radius: 0px;
+}
+
+.container-two {
+    position: absolute;
+    width: 640px;
+    height: 1024px;
+    left: 400px;
+    top: 0px;
+    background: rgba(158, 192, 201, 0.37);
+    box-shadow: 5px 0px 0px rgba(0, 0, 0, 0.04);
+}
+
+.container-three {
+    position: absolute;
+    width: 400px;
+    height: 1024px;
+    left: 1040px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.search-field {
+    position: absolute;
+    width: 324px;
+    height: 40px;
+    left: 38px;
+    top: 93px;
+    background: rgba(219, 232, 235, 0.49);
+    border: 1px solid rgba(68, 200, 236, 0.4);
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+p .search-placeholder {
+    position: absolute;
+    width: 168px;
+    height: 16px;
+    left: 72px;
+    top: 105px;
+    font-family: Open Sans Hebrew;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.chat-1 {
+    position: absolute;
+    width: 395px;
+    height: 65px;
+    left: 5px;
+    top: 177px;
+
+    background: #FFFFFF;
+}
+
+.cust-1 {
+    position: relative;
+    width: 46px;
+    height: 46px;
+    left: 21px;
+    top: 186px;
+
+}
+
+.nm1 {
+    position: absolute;
+    width: 56px;
+    height: 18px;
+    left: 83px;
+    top: 193px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.inbox1 {
+    position: absolute;
+    width: 142px;
+    height: 16px;
+    left: 83px;
+    top: 209px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.tm1 {
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 343px;
+    top: 193px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #000000;
+}
+
+.chat-2 {
+    position: absolute;
+    width: 395px;
+    height: 65px;
+    left: 5px;
+    top: 245px;
+
+    background: #FFFFFF;
+}
+
+.cust-2 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 21px;
+    top: 254px;
+
+}
+
+.nm2 {
+    position: absolute;
+    width: 38px;
+    height: 18px;
+    left: 83px;
+    top: 261px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.inbox2 {
+    position: absolute;
+    width: 142px;
+    height: 16px;
+    left: 83px;
+    top: 277px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.tm2 {
+    position: absolute;
+    width: 48px;
+    height: 15px;
+    left: 343px;
+    top: 261px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.unread2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 376px;
+    top: 290px;
+}
